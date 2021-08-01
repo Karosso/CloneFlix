@@ -1,0 +1,8 @@
+{
+  "name": "CloneFlix",
+  "version": "1",
+  "description": "Clone da interface do Netflix para o bootcamp da DIO",
+  "main": "js/index.js",
+  "author": "Oscar Dias",
+  "license": "MIT"
+}
